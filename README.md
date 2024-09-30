@@ -1,3 +1,5 @@
+-DSTANDALONE_BUILD=ON -DSTATIC_BUILD=ON -DALLOW_DOWNLOADS=ON ..\..\
+
 # Orthanc Explorer 2
 
 This [Orthanc](https://www.orthanc-server.com) plugin implements a new 
